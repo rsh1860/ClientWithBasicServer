@@ -1,0 +1,16 @@
+C:\Users\rsh\source\repos\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\rsh\source\repos\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\rsh\source\repos\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\rsh\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\Users\rsh\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsh\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\rsh\source\repos\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\rsh\source\repos\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\rsh18\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\rsh18\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\rsh18\Desktop\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\rsh18\Desktop\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\Users\rsh18\Desktop\GameServer\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsh18\Desktop\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\rsh18\Desktop\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\rsh18\Desktop\GameServer\GameServer\obj\Debug\GameServer.pdb
